@@ -15,5 +15,3 @@ The datasets used or analysed during the current study are available from the co
 ## Code availability
 
 The code will be made available through this public GitHub repository:
-
-https://github.com/srorcwolf/FateTwin
